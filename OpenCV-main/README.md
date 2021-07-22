@@ -1,5 +1,5 @@
 # QR Code parser  
-### *Made by `George Romanov`*  
+### *Made by `George Romanov and Vova Borovoi`*  
 #### Technologies used:  
 - `Python 3.8`  
 - `CV2` library  
